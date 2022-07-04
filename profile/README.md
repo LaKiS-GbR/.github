@@ -1,4 +1,6 @@
-## Hi there 👋
+## 🎯 Core competence 
+
+We advise you on many software and hardware solutions, for your network. Our strength lies in a wide range of industry know-how, which we know how to adapt to individual requirements with proven approaches.
 
 <!--
 
