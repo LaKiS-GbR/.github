@@ -1,14 +1,23 @@
-## 🎯 Core competence 
+## 🎯 Core competencies
 
-We advise you on many software and hardware solutions, for your network. Our strength lies in a wide range of industry know-how, which we know how to adapt to individual requirements with proven approaches.
+Since the foundation of the company, we have been engaged in the development of web applications on a full-time and part-time basis.  
+In the last two years we have put our focus on the development of software that enables the transfer of data from legacy to new systems.
+Furthermore, we offer services related to active network components, with a special focus on Wi-Fi solutions.
 
-<!--
+## 🌍 Open source participation
 
-**Here are some ideas to get you started:**
+> If everyone is willing to contribute no one has to pay
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+According to this principle, we always try to make our intellectual property freely available whenever possible. Also privately we support projects and developers whose work we appreciate for example:
+
+- https://github.com/jinzhu
+
+- https://github.com/arduino
+
+## ⌨️🔥 Current projects
+
+- https://github.com/Valentin-Kaiser/go-dbase
+
+- https://github.com/Plaenkler/GoST
+
+- https://github.com/LaKiS-GbR/go-dbase-export
