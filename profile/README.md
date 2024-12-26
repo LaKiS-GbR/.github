@@ -1,8 +1,14 @@
 ## 🎯 Core competencies
 
-Since the foundation of the company, we have been engaged in the development of web applications on a full-time and part-time basis.  
-In the last two years we have put our focus on the development of software that enables the transfer of data from legacy to new systems.
-Furthermore, we offer services related to active network components, with a special focus on Wi-Fi solutions.
+Since our founding, we have focused on developing web applications, both as a primary and secondary activity.
+Over the past two years, we have shifted our focus to software solutions that facilitate the migration of data from legacy systems to modern platforms.
+Additionally, we provide comprehensive services for active network components like switches, access points and firewalls.
+
+## ⌨️🔥 Current projects
+
+- https://github.com/LaKiS-GbR/Go-dBASE-Export
+
+- https://github.com/LaKiS-GbR/LaKiS-Page
 
 ## 🌍 Open source participation
 
@@ -13,11 +19,3 @@ According to this principle, we always try to make our intellectual property fre
 - https://github.com/jinzhu
 
 - https://github.com/arduino
-
-## ⌨️🔥 Current projects
-
-- https://github.com/Valentin-Kaiser/go-dbase
-
-- https://github.com/Plaenkler/GoST
-
-- https://github.com/LaKiS-GbR/go-dbase-export
