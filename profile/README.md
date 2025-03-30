@@ -1,4 +1,4 @@
-## ⌨️🔥 Current projects we maintain
+## 🔥 Current projects we maintain
 
 - https://github.com/LaKiS-GbR/Go-dBASE-Export
 
