@@ -1,7 +1,5 @@
 ## 🔥 Current projects we maintain
 
-- https://github.com/LaKiS-GbR/Go-dBASE-Export
-
 - https://github.com/LaKiS-GbR/LaKiS-Page
 
 ## 🌍 Projects we like and support
